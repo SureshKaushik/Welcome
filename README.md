@@ -1,2 +1,4 @@
 # Welcome
-This is a welcome project
+Hi There,
+
+I am interested to learn data structure and algorithms
